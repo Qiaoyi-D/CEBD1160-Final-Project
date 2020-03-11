@@ -18,12 +18,7 @@
 Based on the factors that relavent to cardiovascular diseases，Can we perdict what kind of people would most likely have the diseases?
  
 ### Abstract
-
-4 sentence longer explanation about your research question. Include:
-
-- opportunity (what data do we have)
-- challenge (what is the "problem" we could solve with this dataset)
-- action (how will we try to solve this problem/answer this question)
+Derived from the historical cardiovascular diseases database, we could have the information about the factors that related with the cardio diseases. By using theses data, we could understand that the level of impact for each of these facters could have to cause the cardio diseases. We will try to predict if the people will get the cardio diseases or not by analysis the connectivity among factors and cardio diseases.
 - resolution (what did we end up producing)
 
 ### Introduction

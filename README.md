@@ -34,6 +34,7 @@ The method used for modelling this data was the Logistic Regressor built into sc
 The performance of the regressor was an R^2 value of 0.661. The figure below shows the performance on the testing set and the confudion matrix.
 
 ![performange figure](./figures/vi.png)
+
 ![confusion matrix](./figures/confu matrix.png)
 
 ### Discussion

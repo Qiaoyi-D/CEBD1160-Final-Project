@@ -35,7 +35,7 @@ The performance of the regressor was an R^2 value of 0.661. The figure below sho
 
 ![performange figure](./figures/vi.png)
 
-![confusion matrix](./figures/confu matrix.png)
+![confusion matrix figure](./figures/confu matrix.png)
 
 ### Discussion
 Brief (no more than 1-2 paragraph) description about what you did. Include:

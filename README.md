@@ -31,10 +31,10 @@ The method used for modelling this data was the Logistic Regressor built into sc
 ![matrix](./figures/matrix.png)
 ### Results
 
-The performance of the regressor was an R^2 value of 0.661. The figure below shows the performance on the testing set.
+The performance of the regressor was an R^2 value of 0.661. The figure below shows the performance on the testing set and the confudion matrix.
 
 ![performange figure](./figures/vi.png)
-![confu matrix](./figures/confu matrix.png)
+![confusion matrix](./figures/confu matrix.png)
 
 ### Discussion
 Brief (no more than 1-2 paragraph) description about what you did. Include:

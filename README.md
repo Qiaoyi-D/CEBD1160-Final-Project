@@ -27,14 +27,9 @@ The number of cardiovascular diseases has increased in recent years, and it has 
 
 ### Methods
 
-Brief (no more than 1-2 paragraph) description about how you decided to approach solving it. Include:
-
-- pseudocode for this method (either created by you or cited from somewhere else)
-- why you chose this method
-
+The method used for modelling this data was the Logistic Regressor built into scikit-learn. Pseudocode (and in particular, the objective function being minimized) can be found [here](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression).
+![matrix](./figures/matrix.png)
 ### Results
-
-Brief (2 paragraph) description about your results. Include:
 
 - At least 1 figure
 - At least 1 "value" that summarizes either your data or the "performance" of your method
@@ -47,6 +42,7 @@ Brief (no more than 1-2 paragraph) description about what you did. Include:
 - suggested next step that could make it better.
 
 ### References
-All of the links
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
+https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
 -------

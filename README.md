@@ -37,10 +37,8 @@ The performance of the regressor was an k value of 0.679. The figure below shows
 
 ![performange figure](./figures/vi.png)
 ### Discussion
-Brief (no more than 1-2 paragraph) description about what you did. Include:
+The method used here solve the problem of identifying the most relavent factor to the cardiovascular diseases. I compared the relationship ofcardiovascular diseases with each factor and deleted the data that unrelated.
 
-- interpretation of whether your method "solved" the problem
-- suggested next step that could make it better.
 
 ### References
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
